@@ -15,3 +15,10 @@ Este projeto é um sorteador de números desenvolvido como parte dos meus estudo
   - HTML
   - CSS
   - JavaScript
+
+
+![image](https://github.com/kbruneto/sorteia-ai/assets/157076147/66c8d38f-0b14-443a-98de-ac0d603219d3)
+
+![image](https://github.com/kbruneto/sorteia-ai/assets/157076147/36ac8133-6dfb-42a6-8d73-237fa9f0db1d)
+
+NOT RESPONSIVE
